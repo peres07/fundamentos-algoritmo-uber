@@ -1,6 +1,6 @@
 # Lista de exercícios - Fundamentos de algorítmo
 ## Objetivo
-Este repositório tem como finalidade auxiliar os estudantes do primeiro ano de Ciência da Computação na UEM com a resolução dos exercícios propostos na mateŕia de fundamentos de algoritmo.
+Este repositório tem como finalidade auxiliar os estudantes do primeiro ano de Ciência da Computação na UEM com a resolução dos exercícios propostos na matéria de fundamentos de algoritmos.
 ## Como contribuir
 - Crie um fork do projeto
 - Envie suas resoluções para o fork
