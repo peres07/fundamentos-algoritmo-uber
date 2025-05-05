@@ -8,7 +8,7 @@ def tempo_jogo(hora_inicio: int, minuto_inicio: int, hora_final: int, minuto_fin
     >>> tempo_jogo(22, 0, 1, 0)
     180'''
     
-    if 60 - minuto_inicio == 60:
+    if minuto_inicio == 0:
         minutos_jogando = minuto_final
     else:
         minutos_jogando = (60 - minuto_inicio) + minuto_final
