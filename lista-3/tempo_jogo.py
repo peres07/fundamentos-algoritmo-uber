@@ -2,7 +2,7 @@ def tempo_jogo(hora_inicio: int, minuto_inicio: int, hora_final: int, minuto_fin
     '''Recebe o horário que o jogo começou e o horário que o jogo terminou e retorna quanto tempo foram jogados em minutos
     Exemplos:
     >>> tempo_jogo(13, 40, 19, 20)
-    400
+    340
     >>> tempo_jogo(12, 0, 19, 0)
     420
     >>> tempo_jogo(22, 0, 1, 0)
