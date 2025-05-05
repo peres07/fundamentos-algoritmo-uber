@@ -12,6 +12,7 @@ def tempo_jogo(hora_inicio: int, minuto_inicio: int, hora_final: int, minuto_fin
         minutos_jogando = minuto_final
     else:
         minutos_jogando = (60 - minuto_inicio) + minuto_final
+        hora_inicio = hora_inicio + 1
 
     if hora_inicio > hora_final:
         tempo_jogando = minutos_jogando + (((24 - hora_inicio) + (hora_final)) * 60) 
